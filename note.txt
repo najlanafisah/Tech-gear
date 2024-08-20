@@ -1,0 +1,27 @@
+Class Botstrap
+
+1. align-items-center >> vertikal tengah
+2. align-items-start >> vertikal atas
+3. align-items-
+
+margin
+1. my >> margin vertikal (atas bawah )
+2. mx >> margin horizontal (kanan kiri)
+3. mt >> margin top
+4. mb >> margin bottom
+5. ms >> margin start
+6. me >> margin end
+
+cara pakai = my-1 my-2 my-3 my-4 my-5 
+ukuran Botstrap 1-5, kalau mau lebih harus custom sendiri
+
+container >> agar ada padding secara vertikal
+container fluid >> memenuhi seluruh layar
+my- >> margin vertikal
+row >> (baris)
+justify-content-center >> horizontal tengah
+lg >> large (maka dia akan emeilik kolom 12 )
+fw-bold >> menebalkan teks
+text-center >> teks tengah
+d-flex >> display flex (memudahkan untuk memindahkan sesuatu)
+flex-wrap >> biar ga keluar2 ()
